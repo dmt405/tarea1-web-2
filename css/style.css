@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+h1{
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    background-color: rebeccapurple;
+    margin: 30px;
+    border: 10px;
+    border-style: dashed;
+    border-color: red;
+}
+h2{
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    background-color: greenyellow;
+    margin: 30px;
+    border: 10px;
+    border-style: double;
+}
+p{
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    background-color: yellowgreen;
+    margin: 50px;
+
+}
+body{
+    background-color: skyblue;
+}
