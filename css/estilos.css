@@ -1,0 +1,40 @@
+*{
+    padding: 0%; margin: 0px; border: 0px;
+} 
+body{
+    background-color: skyblue;
+}
+.caja1{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+}
+.caja2{
+    background-color: crimson;
+    padding: 20px;
+    margin: 10px;
+}
+.caja3{
+    background-color: yellowgreen;
+    padding: 10px;
+    margin: 10px;
+}
+.caja1-1{
+    background-color: rgb(182, 93, 182);
+}
+.c2-1{
+    background-color: palegreen;
+    padding: 20px;
+}
+.c2-2{
+    background-color: powderblue;
+    padding: 20px;
+}
+.c2-3{
+    background-color: darkcyan;
+    padding: 20px;
+}
+.c2-4{
+    background-color: blue;
+    padding: 20px;
+}
